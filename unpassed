@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lake Ridge Middle School</title>
+<style>
+      body {background-color: lightblue;}
+      p  {
+  font-family: verdana;
+  font-size: 100%;
+    </style>
+</head>
+<body>
+
+  <h1>People who failed miserably</h1>
+<p>Geovanny Mateos</p>
+  <p>Mateo Marko</p>
+  <p>Sippa Kipper</p>
+  <p>Mani Mareo</p>
+       <p>Arsenal Weirdo</p>
+
+
+</body>
+</html>
